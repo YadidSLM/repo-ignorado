@@ -1,12 +1,12 @@
-**\ContenidoSecreto
+**/ContenidoSecreto
 
-**\config.php
+**/config.php
 
-assets\*.pdf
+assets/**.pdf
 
-**\*.txt
+**\.txt
 
-\assets\media\images\steamuserimages-a.akamaihd.net.jpg
+**/steamuserimages-a.akamaihd.net.jpg
 
 **\-prueba*.*
 **\-local*.*
