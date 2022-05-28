@@ -1,0 +1,13 @@
+**/ContenidoSecreto
+
+**/config.php
+
+assets/*.pdf
+
+**/*.txt
+
+/assets/media/images/steamuserimages-a.akamaihd.net.jpg
+
+**/-prueba*.*
+**/-local*.*
+!*-experimento.*
